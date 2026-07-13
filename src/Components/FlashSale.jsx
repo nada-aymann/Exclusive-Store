@@ -92,7 +92,7 @@ function SamplePrevArrow(props) {
   };
 
   useEffect(() => {
-    const countdownDate = new Date("Jan 17 2025 11:59:59").getTime();
+    const countdownDate = new Date("Jan 17 2027 11:59:59").getTime();
 
     const updateCountdown = () => {
       const now = new Date().getTime();
