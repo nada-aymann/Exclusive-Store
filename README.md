@@ -1,4 +1,4 @@
-# Weather App
+# Exclusive
 
 Exclusive is an e-commerce application built using React, Redux Toolkit, Firebase, Tailwindcss, and other modern libraries.
 
